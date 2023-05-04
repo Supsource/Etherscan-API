@@ -2,7 +2,7 @@
 This project is an API in Go that allows users to query and filter data from the [Etherscan](https://etherscan.io) API. The API retrieves ERC20 token transfer data by address and stores it in-memory for efficient filtering and retrieval.
 ## Requirements
 * [Go](https://go.dev/dl/) 1.16 or higher
-* [Gorilla Mux](github.com/gorilla/mux) package
+* [Gorilla Mux](https://github.com/gorilla/mux) package
 * Etherscan API key, [get yours](https://etherscan.io/apis)
 
 ## Installation
